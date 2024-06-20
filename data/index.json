@@ -1,0 +1,74 @@
+{
+    "AboutMe": "My name is Jordan Springveldt and I am a student at Life Choices",
+    "Projects": [
+      {
+        "name": "Calculator",
+        "github": "https://github.com/jords-springy/calculator",
+        "vercel": "calculator-topaz-five.vercel.app",
+        "description": "I used CSS,HTML and Javascript",
+        "image": "URL"
+      },
+      {
+        "name": "BMI Calculator",
+        "github": "https://github.com/jords-springy/bmi",
+        "vercel": "bmi-plum.vercel.app",
+        "description": "I used CSS,HTML and Javascript",
+        "image": "URL"
+      },
+      {
+        "name": "temperature",
+        "github": "https://github.com/jords-springy/temperature",
+        "vercel": "temperature-omega.vercel.app",
+        "description": "I used CSS,HTML and Javascript",
+        "image": "URL"
+      },
+      {
+        "name": "Swegga",
+        "github": "https://github.com/jords-springy/Swegga",
+        "vercel": "swegga-pi.vercel.app",
+        "description": "I used CSS,HTML and Javascript",
+        "image": "URL"
+      },
+      {
+        "name": "area_of_triangle",
+        "github": "https://github.com/jords-springy/area_of_triangle",
+        "vercel": "area-of-triangle-mu.vercel.app",
+        "description": "I used CSS,HTML and Javascript",
+        "image": "URL"
+      },
+      {
+        "name": "next_number",
+        "github": "https://github.com/jords-springy/next_number",
+        "vercel": "next-number-iota.vercel.app",
+        "description": "I used CSS,HTML and Javascript",
+        "image": "URL"
+      },
+      {
+        "name": "mins_to_secs",
+        "github": "https://github.com/jords-springy/next_number",
+        "vercel": "next-number-iota.vercel.app",
+        "description": "I used CSS,HTML and Javascript",
+        "image": "URL"
+      }
+    ],
+    "education": {
+      "description": "Where I've studied",
+      "Schools": [
+        {
+          "description": "",
+          "year": "2nd April - to present",
+          "placeofInstitution": "Life Choices Academy",
+          "contact": {
+            "name": "Matthew",
+            "contactDetails": "0715634139"
+          }
+        },
+        {
+          "institution": "Wynberg Girls High School",
+          "year": "2019-2023",
+          "pass": "Bachelors Pass",
+          "subjects": "Computer Applications Technology,Geography,Life Science and Pure Maths"
+        }
+      ]
+    }
+  }
