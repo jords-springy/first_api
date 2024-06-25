@@ -1,147 +1,169 @@
 {
-    "AboutMe": "My name is Jordan Springveldt and I am a student at Life Choices",
-    "Projects": [
+  "aboutMe": [
+    "My name is Jordan Springveldt and I am a student at Life Choices"
+  ],
+  "projects": [
+    {
+      "name": "Calculator",
+      "github": "https://github.com/jords-springy/calculator",
+      "vercel": "calculator-topaz-five.vercel.app",
+      "description": "I used CSS,HTML and Javascript",
+      "image": "https://jords-springy.github.io/hostedimages/images/calculator.jpg"
+    },
+    {
+      "name": "BMI Calculator",
+      "github": "https://github.com/jords-springy/bmi",
+      "vercel": "bmi-plum.vercel.app",
+      "description": "I used CSS,HTML and Javascript",
+      "image": "URL"
+    },
+    {
+      "name": "temperature",
+      "github": "https://github.com/jords-springy/temperature",
+      "vercel": "temperature-omega.vercel.app",
+      "description": "I used CSS,HTML and Javascript",
+      "image": "URL"
+    },
+    {
+      "name": "Swegga",
+      "github": "https://github.com/jords-springy/Swegga",
+      "vercel": "swegga-pi.vercel.app",
+      "description": "I used CSS,HTML and Javascript",
+      "image": "URL"
+    },
+    {
+      "name": "area_of_triangle",
+      "github": "https://github.com/jords-springy/area_of_triangle",
+      "vercel": "area-of-triangle-mu.vercel.app",
+      "description": "I used CSS,HTML and Javascript",
+      "image": "URL"
+    },
+    {
+      "name": "next_number",
+      "github": "https://github.com/jords-springy/next_number",
+      "vercel": "next-number-iota.vercel.app",
+      "description": "I used CSS,HTML and Javascript",
+      "image": "URL"
+    },
+    {
+      "name": "mins_to_secs",
+      "github": "https://github.com/jords-springy/next_number",
+      "vercel": "next-number-iota.vercel.app",
+      "description": "I used CSS,HTML and Javascript",
+      "image": "URL"
+    }
+  ],
+  "education": {
+    "description": "Where I've studied",
+    "schools": [
       {
-        "name": "Calculator",
-        "github": "https://github.com/jords-springy/calculator",
-        "vercel": "calculator-topaz-five.vercel.app",
-        "description": "I used CSS,HTML and Javascript",
-        "image": "URL"
+        "description": "Life Choices Coding Academy where I learn how to code",
+        "year": "2nd April - to present",
+        "placeOfInstitution": "Life Choices Academy",
+        "contact": {
+          "name": "Matthew",
+          "contactDetails": "0715634139"
+        }
       },
       {
-        "name": "BMI Calculator",
-        "github": "https://github.com/jords-springy/bmi",
-        "vercel": "bmi-plum.vercel.app",
-        "description": "I used CSS,HTML and Javascript",
-        "image": "URL"
-      },
-      {
-        "name": "temperature",
-        "github": "https://github.com/jords-springy/temperature",
-        "vercel": "temperature-omega.vercel.app",
-        "description": "I used CSS,HTML and Javascript",
-        "image": "URL"
-      },
-      {
-        "name": "Swegga",
-        "github": "https://github.com/jords-springy/Swegga",
-        "vercel": "swegga-pi.vercel.app",
-        "description": "I used CSS,HTML and Javascript",
-        "image": "URL"
-      },
-      {
-        "name": "area_of_triangle",
-        "github": "https://github.com/jords-springy/area_of_triangle",
-        "vercel": "area-of-triangle-mu.vercel.app",
-        "description": "I used CSS,HTML and Javascript",
-        "image": "URL"
-      },
-      {
-        "name": "next_number",
-        "github": "https://github.com/jords-springy/next_number",
-        "vercel": "next-number-iota.vercel.app",
-        "description": "I used CSS,HTML and Javascript",
-        "image": "URL"
-      },
-      {
-        "name": "mins_to_secs",
-        "github": "https://github.com/jords-springy/next_number",
-        "vercel": "next-number-iota.vercel.app",
-        "description": "I used CSS,HTML and Javascript",
-        "image": "URL"
+        "placeOfInstitution": "Wynberg Girls High School",
+        "year": "2019-2023",
+        "pass": "Bachelors Pass",
+        "subjects": "Computer Applications Technology, Geography, Life Science and Pure Maths",
+        "github": "https://jords-springy.github.io/hostedimages/images/wynberg.png"
       }
     ],
-    "education": {
-      "description": "Where I've studied",
-      "Schools": [
-        {
-          "description": "",
-          "year": "2nd April - to present",
-          "placeofInstitution": "Life Choices Academy",
-          "contact": {
-            "name": "Matthew",
-            "contactDetails": "0715634139"
-          }
-        },
-        {
-          "institution": "Wynberg Girls High School",
-          "year": "2019-2023",
-          "pass": "Bachelors Pass",
-          "subjects": "Computer Applications Technology,Geography,Life Science and Pure Maths"
+    "skills": [
+      {
+        "icon": "icon",
+        "name": "HTML5",
+        "github": "https://jords-springy.github.io/hostedimages/images/html5.png"
+      },
+      {
+        "icon": "icon",
+        "name": "CSS3",
+        "github": "https://jords-springy.github.io/hostedimages/images/css3.png"
+      },
+      {
+        "icon": "icon",
+        "name": "Excel",
+        "github": "https://jords-springy.github.io/hostedimages/images/excel.png"
+      },
+      {
+        "icon": "icon",
+        "name": "Access",
+        "github": "https://jords-springy.github.io/hostedimages/images/access.png"
+      },
+      {
+        "icon": "icon",
+        "name": "Word",
+        "github": "https://jords-springy.github.io/hostedimages/images/word.png"
+      },
+      {
+        "icon": "icon",
+        "name": "Powerpoint",
+        "github": "https://jords-springy.github.io/hostedimages/images/powerpoint.png"
+      },
+      {
+        "icon": "icon",
+        "name": "Github",
+        "github": "https://jords-springy.github.io/hostedimages/images/github.png"
+      },
+      {
+        "icon": "icon",
+        "name": "Javascript",
+        "github": "https://jords-springy.github.io/hostedimages/images/js.png"
+      },
+      {
+        "icon": "icon",
+        "name": "VueJS",
+        "github": "https://jords-springy.github.io/hostedimages/images/vuejs.png"
+      }
+    ],
+    "workExperience": [
+      {
+        "placeOfWork": "None",
+        "year": "NA",
+        "description": "I do not have any work experience but I do hope Life Choices gives me the opportunity for a possible internship",
+        "contact": {
+          "name": "NA",
+          "cell": "NA",
+          "position": "NA",
+          "email": "NA"
         }
-      ],
-      "skills":[
-        {
-            "icon":"icon",
-            "name":"HTML"
-        },
-        {
-            "icon":"icon",
-            "name":"CSS"
-        },
-        {
-            "icon":"icon",
-            "name":"Bootstrap"
-        },
-        {
-            "icon":"icon",
-            "name":"Javascript"
-        },
-        {
-            "icon":"icon",
-            "name":"Vue"
-        },
-        {
-            "icon":"icon",
-            "name":"Git"
-        },
-        {
-            "icon":"icon",
-            "name":"Github"
-        }
-      ],
-      "workExp":[
-        { 
-          "placeofWork":"",
-          "year":"",
-          "description":"",
-          "contact":{
-            "name":"",
-            "cell":"",
-            "position":"",
-            "email":""
-          }
-        }
-      ],
-      "testimonial":[
-        {
-          "name":"",
-          "details":""
-        },
-        {
-          "name":"",
-          "details":""
-        },
-        {
-          "name":"",
-          "details":""
-        },
-        {
-          "name":"",
-          "details":""
-        },
-        {
-          "name":"",
-          "details":""
-        },
-        {
-          "name":"",
-          "details":""
-        },
-        {
-          "name":"",
-          "details":""
-        }
-      ]
-    }
+      }
+    ],
+    "testimonial": [
+      {
+        "name": "Chloe Smith",
+        "details": "0780528689",
+        "github": "https://jords-springy.github.io/hostedimages/images/chloe.png"
+      },
+      {
+        "name": "Caleb Okkers",
+        "details": "0783449656",
+        "github": "https://jords-springy.github.io/hostedimages/images/caleb.jpg"
+      },
+      {
+        "name": "Nazneen Abrahams",
+        "details": "0729080220",
+        "github": "https://jords-springy.github.io/hostedimages/images/naz.jpg"
+      },
+      {
+        "name": "Kiara Adams",
+        "details": "0653643503",
+        "github": "https://jords-springy.github.io/hostedimages/images/kiara.jpg"
+      },
+      {
+        "name": "Zen Lee George",
+        "details": "0823006155",
+        "github": "https://jords-springy.github.io/hostedimages/images/zen.jpg"
+      },
+      {
+        "name": "Matthew Brown",
+        "details": "0715634139",
+        "github": "https://jords-springy.github.io/hostedimages/images/matthew.png   "
+      }
+    ]
   }
+}
