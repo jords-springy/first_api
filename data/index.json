@@ -1,5 +1,9 @@
 {
-  "about": ["My name is Jordan Springveldt and I am a student at Life Choices"],
+  "about": [
+    {
+      "description": "Welcome! I'm Jordan Springveldt, a passionate Life Choices Student with aspirations to become a skilled Web Developer. My journey in the ICT field began with a fascination for the internet and Computer Applications Technology during my school years. Now, I'm dedicated to honing my skills and crafting meaningful digital experiences.I love creating user-friendly websites that combine aesthetics with functionality. When I'm not coding, you can find me exploring new technologies or enjoying outdoor activities."
+    }
+  ],
   "projects": [
     {
       "name": "Calculator",
