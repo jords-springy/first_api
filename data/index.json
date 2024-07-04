@@ -58,21 +58,21 @@
   ],
   "education": [
     {
-      "description": "Life Choices Coding Academy where I learn how to code",
-      "year": "2nd April - to present",
-      "placeOfInstitution": "Life Choices Academy",
-      "contact": {
+      "description1": "Life Choices Coding Academy where I learn how to code",
+      "year1": "2nd April - to present",
+      "placeOfInstitution1": "Life Choices Academy",
+      "contact1": {
         "name": "Matthew",
         "contactDetails": "0715634139"
       }
     },
     {
-      "description": "Wynberg Girls High School",
-      "year": "2019-2023",
-      "placeOfInstitution": "Wynberg Girls High School",
-      "pass": "Bachelors Pass",
-      "subjects": "Computer Applications Technology, Geography, Life Science and Pure Maths",
-      "github": "https://jords-springy.github.io/hostedimages/images/wynberg.png"
+      "description2": "Wynberg Girls High School",
+      "year2": "2019-2023",
+      "placeOfInstitution2": "Wynberg Girls High School",
+      "pass2": "Bachelors Pass",
+      "subjects2": "Computer Applications Technology, Geography, Life Science and Pure Maths",
+      "github2": "https://jords-springy.github.io/hostedimages/images/wynberg.png"
     }
   ],
   "skills": [
