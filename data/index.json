@@ -61,8 +61,8 @@
       "description1": "Life Choices Coding Academy where I learn how to code",
       "year1": "2nd April - to present",
       "placeOfInstitution1": "Life Choices Academy",
-        "contactName": "Matthew",
-        "contactDetails": "0715634139"
+        "contactName1": "Matthew",
+        "contactDetails1": "0715634139"
       
     },
     {
@@ -71,8 +71,8 @@
       "placeOfInstitution2": "Wynberg Girls High School",
       "pass2": "Bachelors Pass",
       "subjects2": "Computer Applications Technology, Geography, Life Science and Pure Maths",
-      "principal":"Jennifer Wallace",
-      "number":"021 764 2200",
+      "contactName2":"Jennifer Wallace",
+      "contactDetails2":"021 764 2200",
       "github2": "https://jords-springy.github.io/hostedimages/images/wynberg.png"
     }
   ],
