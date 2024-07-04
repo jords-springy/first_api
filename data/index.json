@@ -61,8 +61,7 @@
       "description1": "Life Choices Coding Academy where I learn how to code",
       "year1": "2nd April - to present",
       "placeOfInstitution1": "Life Choices Academy",
-      "contact1": {
-        "name": "Matthew",
+        "contactName": "Matthew",
         "contactDetails": "0715634139"
       }
     },
