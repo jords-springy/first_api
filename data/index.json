@@ -10,50 +10,43 @@
       "name": "Calculator",
       "github": "https://github.com/jords-springy/calculator",
       "vercel": "calculator-topaz-five.vercel.app",
-      "description": "I used CSS,HTML and Javascript",
-      "image": "https://jords-springy.github.io/hostedimages/images/calculator.jpg"
+      "description": "My first calculator made using CSS,HTML and Javascript",
+      "image": "https://jords-springy.github.io/hostedimages/images/calculator.png"
     },
     {
       "name": "BMI Calculator",
       "github": "https://github.com/jords-springy/bmi",
       "vercel": "bmi-plum.vercel.app",
-      "description": "I used CSS,HTML and Javascript",
+      "description": "BMI Calculator using CSS,HTML and Javascript",
       "image": "https://jords-springy.github.io/hostedimages/images/bmicalc.png"
     },
     {
       "name": "temperature",
       "github": "https://github.com/jords-springy/temperature",
       "vercel": "temperature-omega.vercel.app",
-      "description": "I used CSS,HTML and Javascript",
+      "description": "Temperature Converter using CSS,HTML and Javascript",
       "image": "https://jords-springy.github.io/hostedimages/images/tempconvert.png"
     },
     {
       "name": "Swegga",
       "github": "https://github.com/jords-springy/Swegga",
       "vercel": "swegga-pi.vercel.app",
-      "description": "I used CSS,HTML and Javascript",
-      "image": "https://jords-springy.github.io/hostedimages/images/swegga.jpg"
+      "description": "My first proper Javascript Project using CSS,HTML and Javascript",
+      "image": "https://jords-springy.github.io/hostedimages/images/swegga.png"
     },
     {
-      "name": "area_of_triangle",
-      "github": "https://github.com/jords-springy/area_of_triangle",
-      "vercel": "area-of-triangle-mu.vercel.app",
-      "description": "I used CSS,HTML and Javascript",
-      "image": "https://jords-springy.github.io/hostedimages/images/areaoftri.png"
+      "name": "bootstrap_portfolio",
+      "github": "https://github.com/jords-springy/bootstrap_portfolio",
+      "vercel": "https://bootstrap-portfolio-ecru.vercel.app/",
+      "description": "My first portfolio I've made using Bootstrap CSS and HTML",
+      "image": "https://jords-springy.github.io/hostedimages/images/bootstrap_portfolio.png"
     },
     {
-      "name": "next_number",
-      "github": "https://github.com/jords-springy/next_number",
-      "vercel": "next-number-iota.vercel.app",
-      "description": "I used CSS,HTML and Javascript",
-      "image": "https://jords-springy.github.io/hostedimages/images/nextnum.png"
-    },
-    {
-      "name": "mins_to_secs",
-      "github": "https://github.com/jords-springy/next_number",
-      "vercel": "next-number-iota.vercel.app",
-      "description": "I used CSS,HTML and Javascript",
-      "image": "https://jords-springy.github.io/hostedimages/images/minstosecs.jpg"
+      "name": "juju_sportswear",
+      "github": "https://github.com/jords-springy/juju_sportswear",
+      "vercel": "https://juju-sportswear.vercel.app/",
+      "description": "My first ecommerce website using CSS,HTML and Javascript",
+      "image": "https://jords-springy.github.io/hostedimages/images/juju_sportswear.jpg"
     }
   ],
   "education": [
