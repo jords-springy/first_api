@@ -7,11 +7,18 @@
   ],
   "projects": [
     {
-      "name": "Calculator",
-      "github": "https://github.com/jords-springy/calculator",
-      "vercel": "calculator-topaz-five.vercel.app",
-      "description": "My first calculator made using CSS,HTML and Javascript",
-      "image": "https://jords-springy.github.io/hostedimages/images/calculator.png"
+      "name": "micasa",
+      "github": "https://github.com/awhendr261101/micasa",
+      "vercel": "https://micasa-nflf.vercel.app/",
+      "description": "Micasa Ecommerce Website created by Jordan Springveldt and Awodwa Hendrick",
+      "image": "https://jords-springy.github.io/hostedimages/images/micasaweb.png"
+    },
+    {
+      "name": "screenscape",
+      "github": "https://github.com/jords-springy/screenscape",
+      "vercel": "https://screenscapevercel.vercel.app/",
+      "description": "Private Cinema Reservation Site : Capstone project",
+      "image": "https://jords-springy.github.io/hostedimages/images/screenscapeweb.png"
     },
     {
       "name": "BMI Calculator",
@@ -19,13 +26,6 @@
       "vercel": "bmi-plum.vercel.app",
       "description": "BMI Calculator using CSS,HTML and Javascript",
       "image": "https://jords-springy.github.io/hostedimages/images/bmicalc.png"
-    },
-    {
-      "name": "temperature",
-      "github": "https://github.com/jords-springy/temperature",
-      "vercel": "temperature-omega.vercel.app",
-      "description": "Temperature Converter using CSS,HTML and Javascript",
-      "image": "https://jords-springy.github.io/hostedimages/images/tempconvert.png"
     },
     {
       "name": "Swegga",
