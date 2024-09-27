@@ -72,6 +72,31 @@
   "skills": [
     {
       "icon": "icon",
+      "name": "Cisco Netacad Operating Systems Basics Badge",
+      "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png"
+    },
+    {
+      "icon": "icon",
+      "name": "Cisco Netacad Mobile Operating Systems And Security Module Achievement",
+      "github": "https://jords-springy.github.io/hostedimages/images/mobile-operating-systems-and-security.png"
+    },
+    {
+      "icon": "icon",
+      "name": "Cisco Netacad Windows Operating System Module Achievement",
+      "github": "https://jords-springy.github.io/hostedimages/images/windows-operating-system.png"
+    },
+    {
+      "icon": "icon",
+      "name": "Cisco Netacad Linux Operating System Module Achievement",
+      "github": "https://jords-springy.github.io/hostedimages/images/linux-operating-system.png"
+    },
+    {
+      "icon": "icon",
+      "name": "Cisco Netacad Mobile Device Connectivity Module Achievement",
+      "github": "https://jords-springy.github.io/hostedimages/images/mobile-device-connectivity.png"
+    },
+    {
+      "icon": "icon",
       "name": "HTML5",
       "github": "https://jords-springy.github.io/hostedimages/images/html5.png"
     },
