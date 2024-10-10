@@ -72,6 +72,11 @@
   "skills": [
     {
       "icon": "icon",
+      "name": "AWS Training and Certification Completion of Sessions For Cloud Practitioner Exam",
+      "github": "https://jords-springy.github.io/hostedimages/images/AWS%20Training%20&%20Certification%20-%20Certificate%20of%20Completion%2012.pdf"
+    },
+    {
+      "icon": "icon",
       "name": "Cisco Netacad Operating Systems Basics Badge",
       "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png"
     },
