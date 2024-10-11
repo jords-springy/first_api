@@ -23,14 +23,14 @@
     {
       "name": "BMI Calculator",
       "github": "https://github.com/jords-springy/bmi",
-      "vercel": "bmi-plum.vercel.app",
+      "vercel": "https://bmi-plum.vercel.app/",
       "description": "BMI Calculator using CSS,HTML and Javascript",
       "image": "https://jords-springy.github.io/hostedimages/images/bmicalc.png"
     },
     {
       "name": "Swegga",
       "github": "https://github.com/jords-springy/Swegga",
-      "vercel": "swegga-pi.vercel.app",
+      "vercel": "https://swegga-phi.vercel.app/",
       "description": "My first proper Javascript Project using CSS,HTML and Javascript",
       "image": "https://jords-springy.github.io/hostedimages/images/swegga.png"
     },
