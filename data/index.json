@@ -72,91 +72,91 @@
  "skills": [
   {
     "icon": "icon",
-    "name": "Introduction to the AWS Cloud At The AWS Skills Center",
+    "name": "Introduction to the AWS Cloud",
     "github": "https://jords-springy.github.io/hostedimages/images/aws1.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Building a Cloud Career At The AWS Skills Center",
+    "name": "Building a Cloud Career",
     "github": "https://jords-springy.github.io/hostedimages/images/aws2.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Demystifying Generative AI At The AWS Skills Center",
+    "name": "Demystifying Generative AI",
     "github": "https://jords-springy.github.io/hostedimages/images/aws3.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Job Roles in the Cloud At The AWS Skills Center",
+    "name": "Job Roles in the Cloud",
     "github": "https://jords-springy.github.io/hostedimages/images/aws4.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Why Get AWS Certified? At The AWS Skills Center",
+    "name": "Why Get AWS Certified?",
     "github": "https://jords-springy.github.io/hostedimages/images/aws5.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Computer Foundations: Part 1 - Computer & Network Hardware At The AWS Skills Center",
+    "name": "Computer Foundations: Part 1 - Computer & Network Hardware",
     "github": "https://jords-springy.github.io/hostedimages/images/aws6.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Computer Foundations: Part 2 - Security At The AWS Skills Center",
+    "name": "Computer Foundations: Part 2 - Security",
     "github": "https://jords-springy.github.io/hostedimages/images/aws7.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Computer Foundations: Part 3 - Storage and Databases At The AWS Skills Center",
+    "name": "Computer Foundations: Part 3 - Storage and Databases",
     "github": "https://jords-springy.github.io/hostedimages/images/aws8.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Computer Foundations: Part 4 - Networking At The AWS Skills Center",
+    "name": "Computer Foundations: Part 4 - Networking",
     "github": "https://jords-springy.github.io/hostedimages/images/aws9.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Becoming A Cloud Practitioner - Part 1 - AWS Cloud Basics At The AWS Skills Center",
+    "name": "Becoming A Cloud Practitioner - Part 1 - AWS Cloud Basics",
     "github": "https://jords-springy.github.io/hostedimages/images/aws10.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Becoming A Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies At The AWS Skills Center",
+    "name": "Becoming A Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies",
     "github": "https://jords-springy.github.io/hostedimages/images/aws11.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Becoming A Cloud Practitioner - Part 3 - Identities, Security, and Monitoring the AWS Cloud At The AWS Skills Center",
+    "name": "Becoming A Cloud Practitioner - Part 3 - Identities, Security, and Monitoring the AWS Cloud",
     "github": "https://jords-springy.github.io/hostedimages/images/aws12.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Becoming A Cloud Practitioner - Part 4 - Advanced Cloud Services At The AWS Skills Center",
+    "name": "Becoming A Cloud Practitioner - Part 4 - Advanced Cloud Services",
     "github": "https://jords-springy.github.io/hostedimages/images/aws13.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Becoming A Cloud Practitioner Lab Session At The AWS Skills Center",
+    "name": "Becoming A Cloud Practitioner Lab Session",
     "github": "https://jords-springy.github.io/hostedimages/images/aws14.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
   {
     "icon": "icon",
-    "name": "Exam Prep - AWS Certified Cloud Practitioner (CLF-C02) At The AWS Skills Center",
+    "name": "Exam Prep - AWS Certified Cloud Practitioner (CLF-C02)",
     "github": "https://jords-springy.github.io/hostedimages/images/aws15.png",
     "category": "AWS Completion Certifications From AWS Skills Center Sessions"
   },
