@@ -73,87 +73,105 @@
   {
     "icon": "icon",
     "name": "AWS Training and Certification Completion of Sessions At The AWS Skills Center",
-    "github": "https://jords-springy.github.io/hostedimages/images/aws15.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/aws15.png",
+    "pdf": "https://jords-springy.github.io/hostedimages/images/awscertificates.pdf",
+    "category": "AWS Certifications"
   },
   {
     "icon": "icon",
     "name": "Cisco Netacad Linux Unhatched Badge",
-    "github": "https://jords-springy.github.io/hostedimages/images/linux-unhatched.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/linux-unhatched.png",
+    "category": "Cisco NetAcad Certifications"
   },
   {
     "icon": "icon",
     "name": "Cisco Netacad Operating Systems Basics Badge",
-    "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png",
+    "category": "Cisco NetAcad Certifications"
   },
   {
     "icon": "icon",
     "name": "Cisco Netacad Mobile Operating Systems And Security Module Achievement",
-    "github": "https://jords-springy.github.io/hostedimages/images/mobile-operating-systems-and-security.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/mobile-operating-systems-and-security.png",
+    "category": "Cisco NetAcad Certifications"
   },
   {
     "icon": "icon",
     "name": "Cisco Netacad Windows Operating System Module Achievement",
-    "github": "https://jords-springy.github.io/hostedimages/images/windows-operating-system.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/windows-operating-system.png",
+    "category": "Cisco NetAcad Certifications"
   },
   {
     "icon": "icon",
     "name": "Cisco Netacad Linux Operating System Module Achievement",
-    "github": "https://jords-springy.github.io/hostedimages/images/linux-operating-system.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/linux-operating-system.png",
+    "category": "Cisco NetAcad Certifications"
   },
   {
     "icon": "icon",
     "name": "Cisco Netacad Mobile Device Connectivity Module Achievement",
-    "github": "https://jords-springy.github.io/hostedimages/images/mobile-device-connectivity.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/mobile-device-connectivity.png",
+    "category": "Cisco NetAcad Certifications"
   },
   {
     "icon": "icon",
     "name": "Life Choices Academy Coding Course (Full Stack) Certificate",
-    "github": "https://jords-springy.github.io/hostedimages/images/2024-09-20,%201614%20Microsoft%20Lens.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/2024-09-20,%201614%20Microsoft%20Lens.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "HTML5",
-    "github": "https://jords-springy.github.io/hostedimages/images/html5.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/html5.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "CSS3",
-    "github": "https://jords-springy.github.io/hostedimages/images/css3.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/css3.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "Excel",
-    "github": "https://jords-springy.github.io/hostedimages/images/excel.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/excel.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "MySQL",
-    "github": "https://jords-springy.github.io/hostedimages/images/mysql.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/mysql.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "Word",
-    "github": "https://jords-springy.github.io/hostedimages/images/word.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/word.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "Nodejs",
-    "github": "https://jords-springy.github.io/hostedimages/images/nodejs.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/nodejs.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "Github",
-    "github": "https://jords-springy.github.io/hostedimages/images/github.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/github.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "Javascript",
-    "github": "https://jords-springy.github.io/hostedimages/images/js.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/js.png",
+    "category": "Other Skills and Certifications"
   },
   {
     "icon": "icon",
     "name": "VueJS",
-    "github": "https://jords-springy.github.io/hostedimages/images/vuejs.png"
+    "github": "https://jords-springy.github.io/hostedimages/images/vuejs.png",
+    "category": "Other Skills and Certifications"
   }
 ],
 
