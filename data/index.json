@@ -69,88 +69,189 @@
       "github2": "https://jords-springy.github.io/hostedimages/images/wynberg.png"
     }
   ],
-  "skills": [
-    {
-      "icon": "icon",
-      "name": "AWS Training and Certification Completion of Sessions At The AWS Skills Center For The Cloud Practitioner Exam",
-      "github": "https://jords-springy.github.io/hostedimages/images/aws.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Cisco Netacad Operating Systems Basics Badge",
-      "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Cisco Netacad Mobile Operating Systems And Security Module Achievement",
-      "github": "https://jords-springy.github.io/hostedimages/images/mobile-operating-systems-and-security.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Cisco Netacad Windows Operating System Module Achievement",
-      "github": "https://jords-springy.github.io/hostedimages/images/windows-operating-system.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Cisco Netacad Linux Operating System Module Achievement",
-      "github": "https://jords-springy.github.io/hostedimages/images/linux-operating-system.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Cisco Netacad Mobile Device Connectivity Module Achievement",
-      "github": "https://jords-springy.github.io/hostedimages/images/mobile-device-connectivity.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Life Choices Academy Coding Course (Full Stack) Certificate",
-      "github": "https://jords-springy.github.io/hostedimages/images/2024-09-20,%201614%20Microsoft%20Lens.png"
-    },
-    {
-      "icon": "icon",
-      "name": "HTML5",
-      "github": "https://jords-springy.github.io/hostedimages/images/html5.png"
-    },
-    {
-      "icon": "icon",
-      "name": "CSS3",
-      "github": "https://jords-springy.github.io/hostedimages/images/css3.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Excel",
-      "github": "https://jords-springy.github.io/hostedimages/images/excel.png"
-    },
-    {
-      "icon": "icon",
-      "name": "MySQL",
-      "github": "https://jords-springy.github.io/hostedimages/images/mysql.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Word",
-      "github": "https://jords-springy.github.io/hostedimages/images/word.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Nodejs",
-      "github": "https://jords-springy.github.io/hostedimages/images/nodejs.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Github",
-      "github": "https://jords-springy.github.io/hostedimages/images/github.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Javascript",
-      "github": "https://jords-springy.github.io/hostedimages/images/js.png"
-    },
-    {
-      "icon": "icon",
-      "name": "VueJS",
-      "github": "https://jords-springy.github.io/hostedimages/images/vuejs.png"
-    }
-  ],
+ "skills": [
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Introduction to the AWS Cloud At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws1.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Building a Cloud Career At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws2.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Demystifying Generative AI At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws3.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Job Roles in the Cloud At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws4.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Why Get AWS Certified? At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws5.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Computer Foundations: Part 1 - Computer & Network Hardware At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws6.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Computer Foundations: Part 2 - Security At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws7.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Computer Foundations: Part 3 - Storage and Databases At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws8.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Computer Foundations: Part 4 - Networking At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws9.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Becoming A Cloud Practitioner - Part 1 - AWS Cloud Basics At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws10.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Becoming A Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws11.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Becoming A Cloud Practitioner - Part 3 - Identities, Security, and Monitoring the AWS Cloud At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws12.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Becoming A Cloud Practitioner - Part 4 - Advanced Cloud Services At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws13.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Becoming A Cloud Practitioner Lab Session At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws14.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "AWS Training and Certification Completion of Session : Exam Prep - AWS Certified Cloud Practitioner (CLF-C02) At The AWS Skills Center",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws15.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Cisco Netacad Operating Systems Basics Badge",
+    "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png",
+    "category": "Cisco NetAcad Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Cisco Netacad Mobile Operating Systems And Security Module Achievement",
+    "github": "https://jords-springy.github.io/hostedimages/images/mobile-operating-systems-and-security.png",
+    "category": "Cisco NetAcad Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Cisco Netacad Windows Operating System Module Achievement",
+    "github": "https://jords-springy.github.io/hostedimages/images/windows-operating-system.png",
+    "category": "Cisco NetAcad Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Cisco Netacad Linux Operating System Module Achievement",
+    "github": "https://jords-springy.github.io/hostedimages/images/linux-operating-system.png",
+    "category": "Cisco NetAcad Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Cisco Netacad Mobile Device Connectivity Module Achievement",
+    "github": "https://jords-springy.github.io/hostedimages/images/mobile-device-connectivity.png",
+    "category": "Cisco NetAcad Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Life Choices Academy Coding Course (Full Stack) Certificate",
+    "github": "https://jords-springy.github.io/hostedimages/images/2024-09-20,%201614%20Microsoft%20Lens.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "HTML5",
+    "github": "https://jords-springy.github.io/hostedimages/images/html5.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "CSS3",
+    "github": "https://jords-springy.github.io/hostedimages/images/css3.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Excel",
+    "github": "https://jords-springy.github.io/hostedimages/images/excel.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "MySQL",
+    "github": "https://jords-springy.github.io/hostedimages/images/mysql.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Word",
+    "github": "https://jords-springy.github.io/hostedimages/images/word.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Nodejs",
+    "github": "https://jords-springy.github.io/hostedimages/images/nodejs.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Github",
+    "github": "https://jords-springy.github.io/hostedimages/images/github.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Javascript",
+    "github": "https://jords-springy.github.io/hostedimages/images/js.png",
+    "category": "Other Skills and Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "VueJS",
+    "github": "https://jords-springy.github.io/hostedimages/images/vuejs.png",
+    "category": "Other Skills and Certifications"
+  }
+],
+
   "workExperience": [
     {
       "placeOfWork": "None",
