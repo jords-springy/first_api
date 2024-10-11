@@ -79,6 +79,12 @@
   },
   {
     "icon": "icon",
+    "name": "Cisco Netacad Linux Unhatched Badge",
+    "github": "https://jords-springy.github.io/hostedimages/images/linux-unhatched.png",
+    "category": "Cisco NetAcad Certifications"
+  },
+  {
+    "icon": "icon",
     "name": "Cisco Netacad Operating Systems Basics Badge",
     "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png",
     "category": "Cisco NetAcad Certifications"
