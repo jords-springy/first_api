@@ -14,13 +14,6 @@
       "image": "https://jords-springy.github.io/hostedimages/images/micasaweb.png"
     },
     {
-      "name": "screenscape",
-      "github": "https://github.com/jords-springy/screenscape",
-      "vercel": "https://screenscapevercel.vercel.app/",
-      "description": "Private Cinema Reservation Site : Capstone project",
-      "image": "https://jords-springy.github.io/hostedimages/images/screenscapeweb.png"
-    },
-    {
       "name": "BMI Calculator",
       "github": "https://github.com/jords-springy/bmi",
       "vercel": "https://bmi-plum.vercel.app/",
@@ -47,6 +40,13 @@
       "vercel": "https://juju-sportswear.vercel.app/",
       "description": "My first ecommerce website using CSS,HTML and Javascript",
       "image": "https://jords-springy.github.io/hostedimages/images/juju_sportswear.png"
+    },
+    {
+      "name": "screenscape",
+      "github": "https://github.com/jords-springy/screenscape",
+      "vercel": "https://screenscapevercel.vercel.app/",
+      "description": "Private Cinema Reservation Site : Capstone project",
+      "image": "https://jords-springy.github.io/hostedimages/images/screenscapeweb.png"
     }
   ],
   "education": [
