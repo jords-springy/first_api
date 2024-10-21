@@ -52,7 +52,7 @@
   "education": [
     {
       "description1": "Life Choices Coding Academy where I learn how to code",
-      "year1": "2nd April - to present",
+      "year1": "2nd April - 20 September",
       "placeOfInstitution1": "Life Choices Academy",
         "contactName1": "Matthew",
         "contactDetails1": "0715634139"
@@ -115,12 +115,6 @@
   },
   {
     "icon": "icon",
-    "name": "LC Studio Achievement UI/UX Hackathon",
-    "github": "https://jords-springy.github.io/hostedimages/images/placeholder-image.jpg",
-    "category": "Other Skills and Certifications"
-  },
-  {
-    "icon": "icon",
     "name": "Life Choices Academy Coding Course (Full Stack) Certificate",
     "github": "https://jords-springy.github.io/hostedimages/images/2024-09-20,%201614%20Microsoft%20Lens.png",
     "category": "Other Skills and Certifications"
@@ -180,7 +174,14 @@
     "category": "Other Skills and Certifications"
   }
 ],
-
+"caseStudies":[
+  {
+    "icon": "icon",
+    "name": "LC Studio Achievement UI/UX Hackathon",
+    "github": "https://jords-springy.github.io/hostedimages/images/ui-ux.png",
+    "category": "Hackathons"
+  }
+],
   "workExperience": [
     {
       "placeOfWork": "None",
