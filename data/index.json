@@ -72,6 +72,12 @@
  "skills": [
   {
     "icon": "icon",
+    "name": "AWS Skills Center - Cloud Practitioner: Foundations Badge",
+    "github": "https://jords-springy.github.io/hostedimages/images/aws-skills-center-cloud-practitioner-foundations.png",
+    "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
     "name": "AWS Training and Certification Completion of Sessions At The AWS Skills Center",
     "github": "https://jords-springy.github.io/hostedimages/images/aws15.png",
     "pdf": "https://jords-springy.github.io/hostedimages/images/awscertificates.pdf",
