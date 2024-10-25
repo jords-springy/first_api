@@ -179,7 +179,16 @@
     "icon": "icon",
     "name": "LC Studio Achievement UI/UX Hackathon",
     "github": "https://jords-springy.github.io/hostedimages/images/ui-ux.png",
-    "link":"https://jords-springy.github.io/hostedimages/images/ui-ux.pdf",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/ui-ux.pdf",
+    "link":"https://www.canva.com/design/DAGTjM-73Fk/nxmYX0n3ygGA66xmBrdfZA/edit?utm_content=DAGTjM-73Fk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+    "category": "Hackathons"
+  },
+  {
+    "icon": "icon",
+    "name": "LC Studio Achievement SCRUM Hackathon",
+    "github": "https://jords-springy.github.io/hostedimages/images/scrum.png",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/Scrum%20Hackathon%20Presentation.pdf",
+    "link":"https://www.canva.com/design/DAGUMVqfKxA/gYfdjI11AQqPhSlqcN6gtQ/edit?utm_content=DAGUMVqfKxA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     "category": "Hackathons"
   }
 ],
