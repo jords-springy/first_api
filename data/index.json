@@ -85,6 +85,12 @@
   },
   {
     "icon": "icon",
+    "name": "Cisco Netacad Linux Unhatched Certificate",
+    "github": "https://jords-springy.github.io/hostedimages/images/linux-certificate.png",
+    "category": "Cisco NetAcad Certifications"
+  },
+  {
+    "icon": "icon",
     "name": "Cisco Netacad Linux Unhatched Badge",
     "github": "https://jords-springy.github.io/hostedimages/images/linux-unhatched.png",
     "category": "Cisco NetAcad Certifications"
@@ -93,30 +99,6 @@
     "icon": "icon",
     "name": "Cisco Netacad Operating Systems Basics Badge",
     "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png",
-    "category": "Cisco NetAcad Certifications"
-  },
-  {
-    "icon": "icon",
-    "name": "Cisco Netacad Mobile Operating Systems And Security Module Achievement",
-    "github": "https://jords-springy.github.io/hostedimages/images/mobile-operating-systems-and-security.png",
-    "category": "Cisco NetAcad Certifications"
-  },
-  {
-    "icon": "icon",
-    "name": "Cisco Netacad Windows Operating System Module Achievement",
-    "github": "https://jords-springy.github.io/hostedimages/images/windows-operating-system.png",
-    "category": "Cisco NetAcad Certifications"
-  },
-  {
-    "icon": "icon",
-    "name": "Cisco Netacad Linux Operating System Module Achievement",
-    "github": "https://jords-springy.github.io/hostedimages/images/linux-operating-system.png",
-    "category": "Cisco NetAcad Certifications"
-  },
-  {
-    "icon": "icon",
-    "name": "Cisco Netacad Mobile Device Connectivity Module Achievement",
-    "github": "https://jords-springy.github.io/hostedimages/images/mobile-device-connectivity.png",
     "category": "Cisco NetAcad Certifications"
   },
   {
