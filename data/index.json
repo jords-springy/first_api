@@ -85,20 +85,26 @@
   },
   {
     "icon": "icon",
-    "name": "Cisco Netacad Linux Unhatched Certificate",
-    "github": "https://jords-springy.github.io/hostedimages/images/linux-certificate.png",
+    "name": "Cisco Netacad Network Technician Career Path Badge",
+    "github": "https://jords-springy.github.io/hostedimages/images/network-technician-career-path.png",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/Network_Technician_Career_Path_Certficate.pdf",
+    "link":"https://www.credly.com/badges/38367534-6f1b-4076-a123-f71acc198b64/public_url",
     "category": "Cisco NetAcad Certifications"
   },
   {
     "icon": "icon",
     "name": "Cisco Netacad Linux Unhatched Badge",
     "github": "https://jords-springy.github.io/hostedimages/images/linux-unhatched.png",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/LinuxUnhatchedCertificate.pdf",
+    "link":"https://www.credly.com/badges/67f49277-6572-41fe-a41f-59c4fd60ef21/public_url",
     "category": "Cisco NetAcad Certifications"
   },
   {
     "icon": "icon",
     "name": "Cisco Netacad Operating Systems Basics Badge",
     "github": "https://jords-springy.github.io/hostedimages/images/operating-systems-basics.png",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/Operating_Systems_Basics_Certificate.pdf",
+    "link":"https://www.credly.com/badges/ba869493-6c5c-455c-869f-03f179725ce6/public_url",
     "category": "Cisco NetAcad Certifications"
   },
   {
