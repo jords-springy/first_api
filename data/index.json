@@ -79,9 +79,30 @@
   {
     "icon": "icon",
     "name": "AWS Training and Certification Completion of Sessions At The AWS Skills Center",
-    "github": "https://jords-springy.github.io/hostedimages/images/aws15.png",
+    "github": "https://jords-springy.github.io/hostedimages/images/yes4youth.png",
     "pdf": "https://jords-springy.github.io/hostedimages/images/awscertificates.pdf",
     "category": "AWS Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Yes4Youth Entrepreneurship Module Completion",
+    "github": "https://jords-springy.github.io/hostedimages/images/yes4youth.png",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/entrepreneurship_certificate.pdf",
+    "category": "Yes4Youth Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Yes4Youth Work Readiness Module Completion",
+    "github": "https://jords-springy.github.io/hostedimages/images/yes4youth.png",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/work_readiness_certificate.pdf",
+    "category": "Yes4Youth Certifications"
+  },
+  {
+    "icon": "icon",
+    "name": "Yes4Youth Digital Module Completion",
+    "github": "https://jords-springy.github.io/hostedimages/images/yes4youth.png",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/digital_certificate.pdf",
+    "category": "Yes4Youth Certifications"
   },
   {
     "icon": "icon",
