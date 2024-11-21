@@ -85,6 +85,14 @@
   },
   {
     "icon": "icon",
+    "name": "Cisco Netacad Networking Devices and Initial Configuration Badge",
+    "github": "https://jords-springy.github.io/hostedimages/images/networking-devices-and-initial-configuration.png",
+    "pdf":"https://jords-springy.github.io/hostedimages/images/Networking_Devices_and_Initial_Configuration_Badge20241121-27-cbf7qv.pdf",
+    "link":"https://www.credly.com/badges/45069818-b006-4b63-b179-c5a9ec08eec6/public_url",
+    "category": "Cisco NetAcad Certifications"
+  },
+  {
+    "icon": "icon",
     "name": "Cisco Netacad Network Technician Career Path Badge",
     "github": "https://jords-springy.github.io/hostedimages/images/network-technician-career-path.png",
     "pdf":"https://jords-springy.github.io/hostedimages/images/Network_Technician_Career_Path_Certficate.pdf",
