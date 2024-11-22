@@ -216,20 +216,34 @@
   }
 ],
   "workExperience": [
-    {
-      "placeOfWork": "None",
-      "year": "NA",
-      "description": "LC Studio",
-      "date":"25 September 2024 - current",
-      "contact": {
-        "name": "NA",
-        "cell": "NA",
-        "position": "NA",
-        "email": "NA",
-        "github":"https://jords-springy.github.io/hostedimages/images/lc_studioza_logo.jpg"
-      }
+  {
+    "placeOfWork": "None",
+    "year": "NA",
+    "description": "LC Studio",
+    "date": "25 September 2024 - current",
+    "contact": {
+      "name": "NA",
+      "cell": "NA",
+      "position": "NA",
+      "email": "NA",
+      "github": "https://jords-springy.github.io/hostedimages/images/lc_studioza_logo.jpg"
     }
-  ],
+  },
+  {
+    "placeOfWork": "Yes4Youth",
+    "year": "2024",
+    "description": "Youth Employment Service Programme",
+    "date": "October 2024 - current",
+    "contact": {
+      "name": "NA",
+      "cell": "NA",
+      "position": "NA",
+      "email": "NA",
+      "github": "https://jords-springy.github.io/hostedimages/images/yes4youth.png"
+    }
+  }
+],
+
   "testimonial": [
     {
       "name": "Chloe Smith",
