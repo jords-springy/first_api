@@ -47,6 +47,13 @@
       "vercel": "https://screenscapevercel.vercel.app/",
       "description": "Private Cinema Reservation Site : Capstone project",
       "image": "https://jords-springy.github.io/hostedimages/images/screenscapeweb.png"
+    },
+    {
+      "name": "Trivia Game",
+      "github": "https://github.com/jords-springy/trivia",
+      "vercel": "https://trivia-zeta-eight.vercel.app/",
+      "description": "50 Question General Knowledge Trivia Game",
+      "image": "https://jords-springy.github.io/hostedimages/images/Screenshot%202024-11-22%20135526.png"
     }
   ],
   "education": [
