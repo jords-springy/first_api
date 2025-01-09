@@ -231,6 +231,19 @@
   }
 ],
   "workExperience": [
+    {
+      "placeOfWork": "Hashtopic (Pty) Ltd",
+      "year": "NA",
+      "description": "Web Development Intern",
+      "date": "7 January 2025 - current",
+      "contact": {
+        "name": "NA",
+        "cell": "NA",
+        "position": "NA",
+        "email": "NA",
+        "github": "https://jords-springy.github.io/hostedimages/images/hashtopic_pty_lrd_logo.jpg"
+      }
+    },
   {
     "placeOfWork": "LC Studio",
     "year": "NA",
